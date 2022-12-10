@@ -4,7 +4,6 @@
 - 👀 I’m interested in making websites & software
 - 🌱 I’m currently studying software development
 - 💞️ I’m looking to collaborate with other developers
-- 📫 My contact email .. v1cyyforever@gmail.com
 
 <hr>
 
